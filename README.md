@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm Wenqi!
+- 💻 I'm a PhD student at Technical University of Munich
+- 🔭 I’m currently learning and working on MRI reconstruction
+- 📫 Please feel free to open an issue or drop me an email when you have problems about my repos. Pull requests are also welcome😉!
 
 [![Wenqi's github stats](https://github-readme-stats.vercel.app/api?username=wenqihuang&count_private=true&show_icons=true)](https://github-readme-stats.vercel.app/api?username=wenqihuang)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wenqihuang&count_private=true&show_icons=true&hide=jupyter%20notebook)](https://github-readme-stats.vercel.app/api/top-langs/?username=wenqihuang)
